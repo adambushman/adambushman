@@ -11,7 +11,7 @@ I find joy, fulfillment, and personal growth in oscillating between the roles of
 * 🤝  I'm open to collaborating on projects at any point of the data pipeline
 * 🏀  I also write for a [basketball blog](http://slcdunk.com/) featuring unique data visualizations and metrics
 * 🖥️  Check out my [portfolio](http://adam-bushman.com/)
-* ✉️  You can contact via [my website](https://adam-bushman.com/contact.html)
+* ✉️  You can contact me via [my website](https://adam-bushman.com/contact.html)
 * 📱  Follow my [adventures](https://linktr.ee/adambushman)
 
 <p>&nbsp</p>
