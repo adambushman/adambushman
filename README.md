@@ -7,7 +7,7 @@ I find joy, fulfillment, and personal growth in oscillating between the roles of
 
 * 🌍  I'm based in Utah, USA
 * 📊  I work on projects to discover insights from data
-* 🧠  I'm currently practicing visualization in R via {ggplot2} and its other extensions ([view repo](https://github.com/adambushman/ggplot2-learn-and-practice))
+* 🧠  I'm currently reading Effective Pandas and advancing my data transformation skills in Python
 * 🤝  I'm open to collaborating on projects at any point of the data pipeline
 * 🏀  I also write for a [basketball blog](http://slcdunk.com/) featuring unique data visualizations and metrics
 * 🖥️  Check out my [portfolio](http://adam-bushman.com/)
