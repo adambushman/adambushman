@@ -9,7 +9,7 @@ I find joy, fulfillment, and personal growth in oscillating between the roles of
 * 📊  I work on projects to discover insights from data
 * 🧠  I'm currently reading Effective Pandas and advancing my data transformation skills in Python
 * 🤝  I'm open to collaborating on projects at any point of the data pipeline
-* 🏀  I also write for a [basketball blog](http://slcdunk.com/) featuring unique data visualizations and metrics
+* 🏀  I also write for a basketball [blog](http://slcdunk.com/) and host my own [podcast](https://linktr.ee/jabberjazz) featuring unique data angles
 * 🖥️  Check out my [portfolio](http://adam-bushman.com/)
 * ✉️  You can contact me via [my website](https://adam-bushman.com/contact.html)
 * 📱  Follow my [adventures](https://linktr.ee/adambushman)
