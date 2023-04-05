@@ -7,7 +7,7 @@ I find joy, fulfillment, and personal growth in oscillating between the roles of
 
 * 🌍  I'm based in Utah, USA
 * 📊  I work on projects to discover insights from data
-* 🧠  I'm currently reading Effective Pandas and advancing my data transformation skills in Python
+* 🧠  I'm currently learning to visualize data with the D3.js library
 * 🤝  I'm open to collaborating on projects at any point of the data pipeline
 * 🏀  I also write for a basketball [blog](http://slcdunk.com/) and host my own [podcast](https://linktr.ee/jabberjazz) featuring unique data angles
 * 🖥️  Check out my [portfolio](http://www.adambushman.dev)
@@ -19,4 +19,4 @@ I find joy, fulfillment, and personal growth in oscillating between the roles of
 Languages & Tools I'm Using and Learning
 -------------------------
 <p>  </p>
-<a href="https://github.com/adambushman" align="left"><img src="https://github-readme-stats-one-eosin.vercel.app/api/top-langs/?username=adambushman&langs_count=10&layout=compact&title_color=474647&text_color=ffffff&icon_color=3382ed&bg_color=474647&hide_border=true&locale=en&custom_title=Top%20%Languages&exclude_repo=jabber-jazz-content-notes,gospel-musings" alt="Top Languages" /></a>
+<a href="https://github.com/adambushman" align="left"><img src="https://github-readme-stats-one-eosin.vercel.app/api/top-langs/?username=adambushman&langs_count=10&layout=compact&title_color=474647&text_color=ffffff&icon_color=3382ed&bg_color=474647&hide_border=true&locale=en&custom_title=Top%20%Languages&exclude_repo=jabber-jazz-content-notes,gospel-musings,bootstrap-learn-and-practice" alt="Top Languages" /></a>
