@@ -9,7 +9,7 @@ I find joy, fulfillment, and personal growth in oscillating between the roles of
 * 📊  I work on projects to discover insights from data
 * 🧠  I'm currently learning to visualize data with the D3.js library
 * 🤝  I'm open to collaborating on projects at any point of the data pipeline
-* 🏀  I also write for a basketball [blog](http://slcdunk.com/) and host my own [podcast](https://linktr.ee/jabberjazz) featuring unique data angles
+* 🏀  I also write for a basketball [blog](http://slcdunk.com/) and host my own [basketball podcast](https://linktr.ee/jabberjazz) featuring unique data angles
 * 🖥️  Check out my [portfolio](http://www.adambushman.dev)
 * ✉️  You can contact me via [my website](https://www.adambushman.dev/contact.html)
 * 📱  Follow my [adventures](https://linktr.ee/adambushman)
