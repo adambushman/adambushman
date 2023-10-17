@@ -12,7 +12,7 @@ I find joy, fulfillment, and personal growth in oscillating between the roles of
 * 🏀  I also write for a basketball [blog](http://slcdunk.com/) and host my own [basketball podcast](https://linktr.ee/jabberjazz) featuring unique data angles
 * 🖥️  Check out my [portfolio](http://www.adambushman.dev)
 * ✉️  You can contact me via [my website](https://www.adambushman.dev/contact.html)
-* 📱  Follow my [adventures](https://linktr.ee/adambushman)
+* 📱  Follow my [adventures](https://www.adambushman.dev/follow.html)
 
 <p>&nbsp</p>
 
