@@ -7,7 +7,7 @@ I find joy, fulfillment, and personal growth in oscillating between the roles of
 
 * 🌍  I'm based in Utah, USA
 * 📊  I work on projects to discover insights from data
-* 🧠  I'm currently learning to visualize data with the D3.js library
+* 🧠  I'm currently building a web application using the MEAN stack for a weekly NFL game picks league
 * 🤝  I'm open to collaborating on projects at any point of the data pipeline
 * 🏀  I also write for a basketball [blog](http://slcdunk.com/) and host my own [basketball podcast](https://linktr.ee/jabberjazz) featuring unique data angles
 * 🖥️  Check out my [portfolio](http://www.adambushman.dev)
